@@ -10,9 +10,9 @@
 					<div class="row d-flex align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
 							<h1 class="text-white">
-								Pilihan Jasa				
+								Partner Kami				
 							</h1>	
-							<p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="price.html"> Pilihan Jasa</a></p>
+							<p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="price.html">Partner Kami</a></p>
 						</div>											
 					</div>
 				</div>
