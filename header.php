@@ -42,9 +42,9 @@
 				          <li class="menu-active"><a href="index.html">Home</a></li>
 				          <li><a href="about-us.php">Tentang kami</a></li>
 				          <li><a href="category.php">Pilihan Jasa</a></li>
-				          <li><a href="price.html">Partner Kami</a></li>
-				          <li><a href="blog-home.html">Blog</a></li>
-				          <li><a href="contact.html">Kontak</a></li>
+				          <li><a href="price.php">Partner Kami</a></li>
+				          <li><a href="blog-home.php">Blog</a></li>
+				          <li><a href="contact.php">Kontak</a></li>
 				          <li class="menu-has-children"><a href="">Pages</a>
 				            <ul>
 								<li><a href="elements.html">elements</a></li>
