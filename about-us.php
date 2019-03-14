@@ -102,7 +102,7 @@
 
 			<!-- Start feature Area -->
 			<section class="feature-area">
-				<div class="container-fluid">
+				<div class="container-fluid" style="padding-top: 15px; padding-bottom: 15px;">
 					<div class="row justify-content-center align-items-center">
 						<div class="col-lg-3 feat-img no-padding">
 							<img class="img-fluid" src="img/pages/f1.jpg" alt="">
@@ -135,7 +135,7 @@
 					<div class="row d-flex justify-content-center">
 						<div class="menu-content pb-70 col-lg-8">
 							<div class="title text-center">
-								<h1 class="mb-10">Experienced Mentor Team</h1>
+								<h1 class="mb-10">Proffessional Team</h1>
 								<p>Who are in extremely love with eco friendly system.</p>
 							</div>
 						</div>
