@@ -1,64 +1,6 @@
-	<!DOCTYPE html>
-	<html lang="zxx" class="no-js">
-	<head>
-		<!-- Mobile Specific Meta -->
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<!-- Favicon-->
-		<link rel="shortcut icon" href="img/fav.png">
-		<!-- Author Meta -->
-		<meta name="author" content="codepixer">
-		<!-- Meta Description -->
-		<meta name="description" content="">
-		<!-- Meta Keyword -->
-		<meta name="keywords" content="">
-		<!-- meta character set -->
-		<meta charset="UTF-8">
-		<!-- Site Title -->
-		<title>Job Listing</title>
-
-		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
-			<!--
-			CSS
-			============================================= -->
-			<link rel="stylesheet" href="css/linearicons.css">
-			<link rel="stylesheet" href="css/font-awesome.min.css">
-			<link rel="stylesheet" href="css/bootstrap.css">
-			<link rel="stylesheet" href="css/magnific-popup.css">
-			<link rel="stylesheet" href="css/nice-select.css">					
-			<link rel="stylesheet" href="css/animate.min.css">
-			<link rel="stylesheet" href="css/owl.carousel.css">
-			<link rel="stylesheet" href="css/main.css">
-		</head>
-		<body>
-
-			  <header id="header" id="home">
-			    <div class="container">
-			    	<div class="row align-items-center justify-content-between d-flex">
-				      <div id="logo">
-				        <a href="index.html"><img src="img/logo.png" alt="" title="" /></a>
-				      </div>
-				      <nav id="nav-menu-container">
-				        <ul class="nav-menu">
-				          <li class="menu-active"><a href="index.html">Home</a></li>
-				          <li><a href="about-us.html">About Us</a></li>
-				          <li><a href="category.html">Category</a></li>
-				          <li><a href="price.html">Price</a></li>
-				          <li><a href="blog-home.html">Blog</a></li>
-				          <li><a href="contact.html">Contact</a></li>
-				          <li class="menu-has-children"><a href="">Pages</a>
-				            <ul>
-								<li><a href="elements.html">elements</a></li>
-								<li><a href="search.html">search</a></li>
-								<li><a href="single.html">single</a></li>
-				            </ul>
-				          </li>
-				          <li><a class="ticker-btn" href="#">Signup</a></li>
-				          <li><a class="ticker-btn" href="#">Login</a></li>				          				          
-				        </ul>
-				      </nav><!-- #nav-menu-container -->		    		
-			    	</div>
-			    </div>
-			  </header><!-- #header -->
+			<?php 
+				include'header.php';
+			 ?>
 
 
 			<!-- start banner Area -->
@@ -324,7 +266,7 @@
 						</div>
 						<div class="col-lg-4 sidebar">
 							<div class="single-slidebar">
-								<h4>Jobs by Location</h4>
+								<h4>Histori Oredran KuliKan Bulan Ini</h4>
 								<ul class="cat-list">
 									<li><a class="justify-content-between d-flex" href="category.html"><p>New York</p><span>37</span></a></li>
 									<li><a class="justify-content-between d-flex" href="category.html"><p>Park Montana</p><span>57</span></a></li>
@@ -449,15 +391,15 @@
 			<!-- End post Area -->
 
 			<!-- Start callto-action Area -->
-			<section class="callto-action-area section-gap">
+			<section class="callto-action-area section-gap" id="join">
 				<div class="container">
 					<div class="row d-flex justify-content-center">
 						<div class="menu-content col-lg-9">
 							<div class="title text-center">
-								<h1 class="mb-10 text-white">Join us today without any hesitation</h1>
-								<p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
-								<a class="primary-btn" href="#">I am a Candidate</a>
-								<a class="primary-btn" href="#">Request Free Demo</a>
+								<h1 class="mb-10 text-white">Bergabunglah bersama kami</h1>
+								<p class="text-white">Kami akan membantu menemukan jasa yang anda butuhkan</p>
+								<a class="primary-btn" href="#">Daftar sebagai customer</a>
+								<a class="primary-btn" href="#">Daftar sebagai partner KuliKan</a>
 							</div>
 						</div>
 					</div>	
