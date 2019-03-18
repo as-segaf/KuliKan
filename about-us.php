@@ -24,8 +24,8 @@
 				<div class="container">
 					<div class="profil">
 						<div class="row d-flex justify-content-center">
-							<div class="col-md-8 pb-40 header-text">
-								<h1>Siapa Kami</h1>
+							<div class="col-md-10 pb-40 header-text">
+								<!-- <h1></h1> -->
 								<p>
 									KuliKan.com adalah website untuk mencari penyedia jasa yang berkualitas di berbagai daerah di Indonesia.
 								</p>
